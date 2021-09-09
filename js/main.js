@@ -29,6 +29,6 @@ for (let district in districts) {
     if (districts[district].division_id != div) {
         div++;
     }
-    console.log(districts[district]);
+    // console.log(districts[district]);
 }
-// console.log(allAreaOfBD);
+console.log(allAreaOfBD);
